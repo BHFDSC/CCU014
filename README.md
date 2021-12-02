@@ -1,4 +1,4 @@
-# Assessing cardiovascular disease impact through medicines
+# Assessing the impact of COVID-19 on clinical pathways using a medicines approach
 
 ## Project description
 
@@ -14,6 +14,20 @@ The number of GP appointments also fell during Spring-Summer 2020, presumably re
 
 For this project, we therefore propose to examine patterns in the prescription of medicines for these conditions. This will enable us to understand how the COVID-19 pandemic has had an impact on the control of CVD and its related conditions in the UK population. We will use this information to understand how many people are likely to be affected by cardiovascular disease in the future. It is hoped that this will enable more accurate planning for better patient care.
 
+#### Extension to understand the impact of COVID-19 on a number of clinical pathways using medicines as an approach ####
+
+We previously proposed that medicines could be used to estimate how risk factors for CVD have been managed through the pandemic. This work has yielded important findings demonstrating that medicines used to treat major CVD risk factors, e.g. blood pressure and cholesterol, have fallen over the course of the pandemic and have not yet recovered. This has major implications on how CVD should be managed in the months and years to come and how this may be able to facilitate targeting of treatment e.g. working with NICE, Public Health bodies.
+
+We would now like to extend this work to other disease pathways. During the COVID-19 pandemic health care was disrupted due to increased demands on the NHS. Many long-term conditions and emergency health problems were not diagnosed or treated. To address this, we aim to harmonise medicines data, link this to health outcomes and create a medicines dashboard to understand changes to clinical pathways during COVID-19. 
+
+The public health benefits include monitoring change of medicines use, targeting treatments to high risk or neglected groups, ensuring equity of access, assessing value for money, informing guidance on the use of medicines and capturing harms linked to medicines. If sustained the medicines dashboard can be embedded within health care agencies for ongoing benefit.
+
+## Sub-projects
+
+The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
+
+> Links to follow once outputs have been submitted to a pre-print server and/or submitted to a journal.
+
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK Approvals & Oversight Board (Project ID: CCU014).
+This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU014). It also successfully received funding through a funding call by Health Data Research UK working in partnership with The Alan Turing Institute and the Office of National Statistics, as part of the wider Data and Connectivity National Core Study.
