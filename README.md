@@ -28,6 +28,7 @@ The issues outlined above will be addressed in outputs from a number of related 
 
 * [CCU014_01: The impact of the COVID-19 pandemic on cardiovascular disease prevention and management](https://github.com/BHFDSC/CCU014_01)
 * [CCU014_03: Use of sodium valproate and other antiseizure drug treatments in England and Wales: quantitative analysis of nationwide linked electronic health records](https://github.com/BHFDSC/CCU014_03)
+* [CCU014_05: Are we getting it right first time (collaboration with GIRFT, NHSE Diabetes team and Chris Tomlinson to apply Foresight to T2DM), impact of Covid](https://github.com/BHFDSC/CCU014_05)
 
 > Links to repositories for additional outputs will follow in due course.
 
